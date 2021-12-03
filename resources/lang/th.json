@@ -1,0 +1,190 @@
+{
+    "Dashboard":
+        "แดชบอร์ด",
+    "Manage Account":
+        "จัดการบัญชี",
+    "Profile":
+        "ตั้งค่าบัญชี",
+    "Manage Team":
+        "จัดการสาขา",
+    "Team Settings":
+        "ตั้งค่าสาขา",
+    "Create New Team":
+        "สร้างสาขาใหม่",
+    "Create Team":
+        "สร้างสาขา",
+    "Switch Teams":
+        "สลับสาขา",
+    "Logout":
+        "ออกจากระบบ",
+    "Profile Information":
+        "ข้อมูลบัญชี",
+    "Update your account's profile information and email address.":
+        "อัปเดตข้อมูลบัญชีและอีเมล์",
+    "Photo":
+        "รูปภาพ",
+    "Select A New Photo":
+        "เลือกรูปภาพใหม่",
+    "Remove Photo":
+        "ลบรูปภาพ",
+    "Name":
+        "ชื่อ นามสกุล",
+    "Email":
+        "อีเมล์",
+    "Saved.":
+        "บันทึกแล้ว",
+    "Save":
+        "บันทึก",
+    "Update Password":
+        "เปลี่ยนรหัสผ่าน",
+    "Ensure your account is using a long, random password to stay secure.":
+        "กรุณาใช้รหัสผ่านที่มีความยาวและคาดเดาได้ยาก เพื่อความปลอดภัย",
+    "Current Password":
+        "รหัสผ่านปัจจุบัน",
+    "Password":
+        "รหัสผ่าน",
+    "New Password":
+        "รหัสผ่านใหม่",
+    "Confirm Password":
+        "ยืนยันรหัสผ่านใหม่",
+    "Register":
+        "ลงทะเบียน",
+    "Already registered?":
+        "เคยลงทะเบียนแล้ว?",
+    "Remember me":
+        "จำฉันไว้",
+    "Forgot your password?":
+        "ลืมรหัสผ่าน?",
+    "Login":
+        "เข้าสู่ระบบ",
+    "Log in":
+        "เข้าสู่ระบบ",
+    "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.":
+        "หากคุณลืมรหัสผ่าน เพียงระบุอีเมล์ที่ได้ลงทะเบียนไว้ เราจะส่งอีเมล์ที่ใช้รีเซ็ตรหัสผ่านไปให้ เพื่อให้คุณสามารถตั้งรหัสผ่านใหม่ได้",
+    "Email Password Reset Link":
+        "อีเมล์รีเซ็ตรหัสผ่าน",
+    "Two Factor Authentication":
+        "ยืนยันตัวตนแบบสองขั้นตอน",
+    "Add additional security to your account using two factor authentication.":
+        "เพิ่มความปลอดภัยยิ่งขึ้นให้บันชีของคุณ โดยการใช้การยืนยันตัวตนแบบสองขั้นตอน",
+    "You have not enabled two factor authentication.":
+        "คุณยังไม่ได้เปิดใช้การยืนยันตัวตนแบบสองขั้นตอน",
+    "When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.":
+        "เมื่อเปิดใช้การยืนยันตัวตนแบบสองขั้นตอน คุณจะได้รับโทคเค็นเพื่อใข้ยืนยันการล็อกอิน คุณสามารถใข้แอป Google Authenticator ในโทรศัพท์มือถือของคุณเพื่อรับโทคเค็น",
+    "Enable":
+        "เปิดใช้งาน",
+    "Browser Sessions":
+        "เซสชั่นการใช้งาน",
+    "Manage and log out your active sessions on other browsers and devices.":
+        "จัดการเซสชั่นการใช้งานบนบราวเซอร์บนคอมพิวเตอร์และอุปกรณ์อื่นๆ ที่มีการใช้งานอยู่",
+    "If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.":
+        "หากจำเป็น คุณสามารถที่จะบังคับให้มีการสิ้นสุดการใช้งานบนบราวเซอร์และอุปกรณ์่ต่างๆ ที่มีการใช้งานอยู่ หากคุณคิดว่าบัญชีของคุณถูกแฮกซ์ คุณควรเปลี่ยนรหัสผ่านด้วยเช่นกัน",
+    "Log Out Other Browser Sessions":
+        "บังคับสิ้นสุดการใช้งานบนคอมพิวเตอร์และอุปกรณ์อื่นๆ",
+    "This device":
+        "อุปกรณ์ที่กำลังใช้อยู่นี้",
+    "Last active":
+        "เปิดใช้เมื่อ",
+    "Done.":
+        "เสร็จแล้ว",
+    "Nevermind":
+        "ยกเลิก",
+    "Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.":
+        "กรุณาป้อนรหัสผ่านเพื่อยืนยัน ว่าคุณต้องการบังคับสิ้นสุดการใช้งาน บนคอมพิวเตอร์และอุปกรณ์อื่นๆ",
+    "Delete Account":
+        "ลบบัญชีนี้",
+    "Permanently delete your account.":
+        "ลบบัญชีของคุณอย่างถาวร",
+    "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.":
+        "เมื่อทำการลบบัญชีของคุณแล้ว ข้อมูลทุกอย่างที่เกี่ยวข้องกับบัญชีนี้จะถูกลบอย่างถาวร ก่อนทำการลบบัญชีของคุณ กรุณาดาวน์โหลดข้อมูลที่คุณต้องการเก็บไว้ก่อน",
+    "Team Name":
+        "ชื่อสาขา",
+    "The team's name and owner information.":
+        "ชื่อสาขาและข้อมูลผู้ดูแล",
+    "Team Owner":
+        "ผู้ดูแลสาขา",
+    "Add Team Member":
+        "เพิ่มสมาชิกในสาขา",
+    "Add a new team member to your team, allowing them to collaborate with you.":
+        "เพิ่มสมาชิกเข้าในสาขาของคุณ เพื่อให้สามารถใช้งานร่วมกันได้",
+    "Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.":
+        "กรุณาระบุอีเมล์ของผู้ที่คุณต้องการเพิ่มเข้ามาเป็นสมาชิกในสาขา อีเมล์นี้จะต้องเป็นของผู้ที่ลงทะเบียนอยู่ในระบบ",
+    "Role":
+        "หน้าที่",
+    "Add":
+        "เพิ่ม",
+    "Team Details":
+        "รายละเอียดสาขา",
+    "Create a new team to collaborate with others on projects.":
+        "สร้างสาขาใหม่เพื่อใช้ทำงานร่วมกับสมาชิก",
+    "Create":
+        "สร้าง",
+    "Delete Team":
+        "ลบสาขา",
+    "Permanently delete this team.":
+        "ลขสาขาออกจากระบบอย่างถาวร",
+    "Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.":
+        "เมื่อสาขาถูกลบแล้ว ข้อมูลทุกอย่างที่เกี่ยวข้องกับสาขานี้จะถูกลบออกโดยถาวร ฉะนั้นก่อนทำการลบ กรุณาดาวน์โหลดข้อมูลที่คุณต้องการเก็บไว้ก่อน",
+    "Whoops! Something went wrong.":
+        "ไม่สามารถล็อกอินเข้าสู่ระบบได้!",
+    "I agree to the :terms_of_service and :privacy_policy":
+        "กรุณายอมรับ :terms_of_service และ :privacy_policy",
+    "Terms of Service":
+        "เงื่อนไขการใช้บริการ",
+    "Privacy Policy":
+        "นโยบายความเป็นส่วนตัว",
+    "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.":
+        "คุณได้ลงทะเบียนเรียบร้อยแล้ว! ก่อนที่คุณจะสามารถเข้าใช้ระบบได้ คุณจะต้องยืนยันอีเมล์ที่ลงทะเบียนไว้โดยการคลิกที่ลิงค์ที่เราได้ส่งไปทางอีเมล์ หากคุณไม่ได้รับอีเมล์ ให้กดที่ปุ่มข้างล่างเพื่อให้ระบบส่งอีเมล์อีกครั้ง",
+    "A new verification link has been sent to the email address you provided during registration.":
+        "เราได้ส่งลิงค์ยืนยันอีเมล์ ไปยังอีเมล์ที่คุณได้ลงทะเบียนไว้ไปให้แล้ว กรุณาตรวจสอบและทำการยืนยัน",
+    "Resend Verification Email":
+        "ส่งอีเมล์สำหรับการยืนยันอีกครั้ง",
+    "Log Out":
+        "ออกจากระบบ",
+    "Verify Email Address":
+        "ยืนยันที่อยู่อีเมล์ก่อนเริ่มใช้งาน",
+    "Please click the button below to verify your email address.":
+        "คุณได้รับอีเมล์ฉบับนี้ เนื่องจากคุณได้ลงทะเบียนขอใช้งานระบบ กรุณาคลิกที่ปุ่มข้างล่างเพื่อยืนยันที่อยู่อีเมล์นี้",
+    "If you did not create an account, no further action is required.":
+        "หากคุณไม่ได้เป็นผู้ลงทะเบียนเพื่อขอใช้งานระบบ คุณไม่จำเป็นต้องดำเนินการอะไรต่อ",
+    "Reset Password Notification":
+        "แจ้งการขอรีเซ็ตรหัสผ่าน",
+    "You are receiving this email because we received a password reset request for your account.":
+        "คุณได้รับอีเมล์ฉบับนี้เนื่องจากระบบได้รับการขอรีเซ็ตรหัสผ่านจากบัญชีของคุณ",
+    "Reset Password":
+        "รีเซ็ตรหัสผ่าน",
+    "This password reset link will expire in :count minutes.":
+        "ลิงค์เพื่อใช้รีเซ็ตรหัสผ่านจะหมดอายุใน :count นาที",
+    "If you did not request a password reset, no further action is required.":
+        "หากคุณไม่ได้เป็นผู้ขอรีเซ็ตรหัสผ่าน คุณไม่จำเป็นต้องดำเนินการอะไรต่อ",
+    "Hello!":
+        "สวัสดีครับ",
+    "Whoops!":
+        "พบข้อผิดพลาด!",
+    "Regards":
+        "ขอบคุณที่ใช้บริการของเรา",
+    "If you're having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser:":
+        "หากคุณไม่สามารถใช้งานปุ่มด้านบนได้ คุณสามารถก๊อปปี้ลิงค์ด้านล่างนี้แล้วนำไปวางในเว็บบราวเซอร์ที่คุณ้ใช้งานได้:",
+    "You have been invited to join the :team team!":
+        "คุณได้รับคำเชิญให้เข้าร่วมทีม :team!",
+    "If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation:":
+        "หากคุณยังไม่ได้ลงทะเบียนขอใช้งาน คุณสามารถทำการลงทะเบียนขอใช้งานโดยคลิกที่ปุ่มด้านล่างนี้ หลังจากลงทะเบียนแล้ว คุณสามารถคลิกที่ปุ่มตอบรับคำเชิญในอีเมล์ฉบับนี้ เพื่อรับคำเชิญให้เข้าร่วมทีม:",
+    "Create Account":
+        "ลงทะเบียนขอใช้งาน",
+    "If you already have an account, you may accept this invitation by clicking the button below:":
+        "หากคุณเคยลงทะเบียนไว้แล้ว คุณสามารถตอบรับคำเชิญโดยการกดปุ่มด้านล่างนี้:",
+    "You may accept this invitation by clicking the button below:":
+        "คุณสามารถตอบรับคำเชิญโดยการกดปุ่มด้านล่างนี้:",
+    "Accept Invitation":
+        "ตอบรับคำเชิญเข้าร่วม",
+    "If you did not expect to receive an invitation to this team, you may discard this email.":
+        "หากคุณไม่ได้รับแจ้งว่าจะมีการเชิญเข้าร่วมทีมนี้ กรุณาเพิกเฉยต่ออีเมล์ฉบับนี้",
+    "For your security, please confirm your password to continue.":
+        "เพื่อความปลอดภัย กรุณายืนยันรหัสผ่านเพื่อดำเนินการต่อ",
+    "Confirm":
+        "ยืนยัน",
+    "Cancel":
+        "ยกเลิก",
+    "All rights reserved.":
+        "สงวนสิทธิ์"
+}

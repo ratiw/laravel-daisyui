@@ -4,6 +4,16 @@
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../jetstream-translation-th"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/ratiw/laravel-google-fonts"
+        }
+    ],
     "require": {
         "php": "^7.3|^8.0",
         "fruitcake/laravel-cors": "^2.0",
@@ -14,7 +24,10 @@
         "laravel/tinker": "^2.5",
         "livewire/livewire": "^2.5",
         "pestphp/pest": "^1.16",
-        "pestphp/pest-plugin-laravel": "^1.1"
+        "pestphp/pest-plugin-laravel": "^1.1",
+        "rappasoft/laravel-livewire-tables": "^1.19",
+        "ratiw/jetstream-translation-th": "dev-master",
+        "spatie/laravel-google-fonts": "dev-main"
     },
     "require-dev": {
         "facade/ignition": "^2.5",

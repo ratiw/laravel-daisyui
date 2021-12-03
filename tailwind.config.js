@@ -12,7 +12,7 @@ module.exports = {
     theme: {
         extend: {
             fontFamily: {
-                sans: ['Nunito', ...defaultTheme.fontFamily.sans],
+                sans: ['Chakra Petch', 'Nunito', ...defaultTheme.fontFamily.sans],
             },
             colors: require('daisyui/colors')
         },
