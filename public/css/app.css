@@ -2364,6 +2364,9 @@ html {
 .m-8 {
 	margin: 2rem;
 }
+.m-3 {
+	margin: 0.75rem;
+}
 .mx-auto {
 	margin-left: auto;
 	margin-right: auto;
@@ -2379,6 +2382,10 @@ html {
 .my-3 {
 	margin-top: 0.75rem;
 	margin-bottom: 0.75rem;
+}
+.mx-3 {
+	margin-left: 0.75rem;
+	margin-right: 0.75rem;
 }
 .ml-3 {
 	margin-left: 0.75rem;
@@ -2499,6 +2506,12 @@ html {
 }
 .mr-0 {
 	margin-right: 0px;
+}
+.mr-1\.5 {
+	margin-right: 0.375rem;
+}
+.mr-1 {
+	margin-right: 0.25rem;
 }
 .block {
 	display: block;
@@ -2750,6 +2763,12 @@ html {
 }
 .items-center {
 	align-items: center;
+}
+.items-baseline {
+	align-items: baseline;
+}
+.justify-start {
+	justify-content: flex-start;
 }
 .justify-end {
 	justify-content: flex-end;
@@ -3919,6 +3938,10 @@ body {
 		flex-direction: row;
 	}
 
+	.sm\:flex-wrap {
+		flex-wrap: wrap;
+	}
+
 	.sm\:items-start {
 		align-items: flex-start;
 	}
@@ -3979,6 +4002,18 @@ body {
 		--tw-space-y-reverse: 0;
 		margin-top: calc(1.25rem * calc(1 - var(--tw-space-y-reverse)));
 		margin-bottom: calc(1.25rem * var(--tw-space-y-reverse));
+	}
+
+	.sm\:space-x-8 > :not([hidden]) ~ :not([hidden]) {
+		--tw-space-x-reverse: 0;
+		margin-right: calc(2rem * var(--tw-space-x-reverse));
+		margin-left: calc(2rem * calc(1 - var(--tw-space-x-reverse)));
+	}
+
+	.sm\:truncate {
+		overflow: hidden;
+		text-overflow: ellipsis;
+		white-space: nowrap;
 	}
 
 	.sm\:rounded-lg {
@@ -4064,6 +4099,11 @@ body {
 	.sm\:text-sm {
 		font-size: 0.875rem;
 		line-height: 1.25rem;
+	}
+
+	.sm\:text-3xl {
+		font-size: 1.875rem;
+		line-height: 2.25rem;
 	}
 
 	.sm\:leading-5 {
