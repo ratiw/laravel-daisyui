@@ -1,4 +1,4 @@
-<div x-show="openMobileSidebar" class="fixed inset-0 flex z-40 lg:hidden"
+<div x-show="openMobileSidebar" class="fixed inset-0 flex z-40 xl:hidden"
     x-description="Off-canvas menu for mobile, show/hide based on off-canvas menu state." x-ref="dialog"
     aria-modal="true" style="display: none;">
     <!-- Off-canvas menu nav overlay -->

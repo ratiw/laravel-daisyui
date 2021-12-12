@@ -18,7 +18,10 @@ Route::get('/', function () {
 });
 
 Route::get('/tablet', function () {
-    return view('tablet');
+    return view('main.index');
+});
+Route::get('/sales', function () {
+    return view('sales.index');
 });
 
 Route::middleware(['auth:sanctum', 'verified'])->group(function () {
